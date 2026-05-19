@@ -1,4 +1,4 @@
-# 🚀 Standardized Corporate AI Developer Sandbox Website
+# 🚀 Standardized Corporate AI Developer Sandbox 
 
 This repository hosts the public, customer-facing product landing page for the **Corporate AI Developer Sandbox** offering. Deployed globally via GitHub Pages, this high-contrast, light-themed responsive sales asset targets small and medium enterprises (SMEs) across the UK, addressing compliance vulnerabilities related to "Shadow AI" and local laptop model engineering.
 
